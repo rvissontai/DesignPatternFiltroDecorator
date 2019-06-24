@@ -1,0 +1,7 @@
+C:\Users\rafae\Source\Repos\ContaFraudeDecorator\bin\Debug\ContaFraudeDecorator.exe.config
+C:\Users\rafae\Source\Repos\ContaFraudeDecorator\bin\Debug\ContaFraudeDecorator.exe
+C:\Users\rafae\Source\Repos\ContaFraudeDecorator\bin\Debug\ContaFraudeDecorator.pdb
+C:\Users\rafae\Source\Repos\ContaFraudeDecorator\obj\Debug\ContaFraudeDecorator.csprojAssemblyReference.cache
+C:\Users\rafae\Source\Repos\ContaFraudeDecorator\obj\Debug\ContaFraudeDecorator.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Source\Repos\ContaFraudeDecorator\obj\Debug\ContaFraudeDecorator.exe
+C:\Users\rafae\Source\Repos\ContaFraudeDecorator\obj\Debug\ContaFraudeDecorator.pdb
