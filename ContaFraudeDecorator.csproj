@@ -43,6 +43,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Conta.cs" />
+    <Compile Include="FiltroMaiorQueQuinhentosMil.cs" />
+    <Compile Include="FiltroMenorQue100.cs" />
+    <Compile Include="FiltroMesCorrente.cs" />
     <Compile Include="IRegraFraude.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
